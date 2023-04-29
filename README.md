@@ -68,6 +68,8 @@ a Granada para poder despejarse de su reciente ruptura y poder coger ideas para
 su próxima novela. Escoge el tablao flamenco La Alborea, ya que le llama la
 atención todos los servicios que ofrece y además, está muy cerca de su hotel y de la
 Alhambra.
+(P1/Alfredo.png)
+(P1/Minerva.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----

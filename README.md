@@ -67,23 +67,61 @@ aprender con cada libro que lee y es muy innovadora. <strong>Minerva</strong> es
 a Granada para poder despejarse de su reciente ruptura y poder coger ideas para
 su próxima novela. Escoge el tablao flamenco La Alborea, ya que le llama la
 atención todos los servicios que ofrece y además, está muy cerca de su hotel y de la
-Alhambra.
-(P1/Alfredo.png)
-(P1/Minerva.png)
+Alhambra.<br><br>
+![Método UX](P1/Alfredo.png)
+![Método UX](P1/Minerva.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> En este Journey Map hemos escogido las historias de nuestros dos anteriores
+protagonistas. En resumen, Alfredo compra la entrada al tablao flamenco ya que sus
+amigos le han ofrecido asistir, pero no sin antes, ir revisando la información que
+ofrece el sitio, visitando la página web. Aquí va viendo los días que hay disponibles
+para ir y su precio. No le agrada mucho que sea tan caro, pero al ir con sus amigos,
+se siente un poco presionado. Finalmente, se acaba convenciendo a sí mismo de
+que es algo nuevo y debería experimentar, por lo que finalmente paga la entrada y
+avisa a sus amigos.
+<br><br>En cambio, Minerva, planeando bastante poco su viaje a Granada, decide buscar
+algo relacionado con el flamenco en dicha ciudad, para empaparse un poco más de
+la cultura de la misma, además de que le encanta. Ya ha reservado un hotel
+previamente bastante cerca de la Alhambra ya que tiene decidido ir a visitarla, es el
+monumento más representativo de Granada, por lo que busca el show cerca del
+mismo. Entre varias alternativas que ofrece Google, se encuentra La Alborea.
+Visitando la página web, además de ofrecer un show flamenco, tienen servicio de
+comida y de guías turísticas, esto le viene perfecto a Minerva ya que así puede
+aprender un poco más de Granada. Pide la entrada, que era su principal motivo.<br><br>
+![Método UX](P1/JourneyAlfredo.png)
+![Método UX](P1/JourneyMinerva.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  [hoja de cálculo](https://github.com/Fernanps2/Puntalenios/blob/master/P1/UsabilityReview_DIU1_05.xlsx)
+>>> - Valoración final (numérica): 86 - GOOD
+>>> - Comentario sobre la valoración:  Destaca mucho en la mayoría de las características, ya que lo hace
+bastante bien, y todo lo que es representar a la página, lo llevan perfectamente.
+Cierto es, que hay herramientas que no implementan, como sería una barra de
+búsqueda, por ejemplo, para encontrar a un artista en concreto o para encontrar
+algún show en específico.<br><br>
+Tiene una interfaz preciosa, combinando los colores más característicos del
+flamenco, como viene a ser el negro, el rojo y un poco de blanco, aunque predomina
+bastante el color negro. Tiene un bonito vídeo de presentación al abrir la página por
+primera vez, donde, a fin de cuentas, te muestran la experiencia que se puede tener
+dentro de este lugar. La página de inicio está clara y no satura de información,
+aunque te puedes encontrar fotos puestas unas encima de otras que, en vista del
+usuario, resulta poco agradable a la vista y, además, la tipografía no es la más
+elegante para este tipo de página. Los subtítulos, que tiene la página de inicio, están
+en minúscula, algo resaltante y poco agradable a la vista.<br><br>
+Las categorías del menú están bastante claras, por lo que es sencillo poder
+encontrar la ubicación del sitio, comprar las entradas, ver la carta de degustación,
+ver los días disponibles y las experiencias que ofrecen. Por otro lado, está bastante
+escondido el mensaje de contacto, ya que está en “ubicación”, pero lo alivian con
+un botón bastante grande, fácil de ver, para entrar en un grupo de whatsapp y poder
+hablar con ellos.<br><br>
+En conclusión, es una página bastante adecuada para representar su negocio y
+atraer a la gente fanática de esta categoría.
 
 
 ## Paso 2. UX Design  

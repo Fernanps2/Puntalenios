@@ -36,12 +36,12 @@ Miembros
 tienen una página web en internet y que se dedican a ofrecer espectáculos en
 tablaos flamencos en Granada, para compararlas con la página web del tablao
 flamenco que nos ocupa en esta práctica, <strong>La Alborea</strong>. 
-<br>Como conclusiones, podemos decir que la página web de <strong>Jardines de Zoraya</strong> es notablemente inferior a las otras
+<br><br>Como conclusiones, podemos decir que la página web de <strong>Jardines de Zoraya</strong> es notablemente inferior a las otras
 dos en cuanto a visibilidad, dinamismo de la página y división de los distintos
 aspectos del tablao flamenco. La siguiente página, correspondiente a <strong>Casa Ana</strong>, sí
 contiene una mejor presentación, con mucha información acerca del mundo del
 flamenco y un blog bastante representativo, pero, a su vez, muestra menos
-movimiento y dinamismo que la página de La Alborea. <br>Por tanto, podríamos decir
+movimiento y dinamismo que la página de <strong>La Alborea</strong>. <br><br>Por tanto, podríamos decir
 que la página web que nos atañe en esta práctica tiene una mejor visibilidad que el
 resto de las páginas analizadas. Presenta un mayor dinamismo que atrae al usuario,
 haciendo más extensa su visita por la web, mucha información acerca del flamenco
@@ -53,7 +53,21 @@ del tablao a los usuarios.
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> En este caso, hemos seleccionado dos personas totalmente distintas entre sí. En
+primer lugar un hombre asturiano, <strong>Alfredo</strong>, de 29 años, dedicado a la guardia
+forestal, divertido aunque algo introvertido, que tiene como objetivos en la vida vivir
+de su trabajo, investigar especies animales, formar una familia y viajar lo máximo
+posible. Lo hemos seleccionado porque el próximo verano viajará a Granada con
+varios de sus amigos. Uno de ellos les ha recomendado ir al tablao flamenco La
+Alborea porque ya ha estado en varias ocasiones y es fanático de estos eventos.
+<br><br>La siguiente es <strong>Minerva</strong>, mujer de 43 años, divorciada, que sueña con ser una
+escritora profesional y poder llegar a vivir de ello. Es de Albacete. Es un poco
+introvertida, aunque si hay algo que quiera decir lo dice sin problema, le gusta
+aprender con cada libro que lee y es muy innovadora. <strong>Minerva</strong> está apunto de viajar
+a Granada para poder despejarse de su reciente ruptura y poder coger ideas para
+su próxima novela. Escoge el tablao flamenco La Alborea, ya que le llama la
+atención todos los servicios que ofrece y además, está muy cerca de su hotel y de la
+Alhambra.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----

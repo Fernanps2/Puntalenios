@@ -32,7 +32,23 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> En este análisis de competidores hemos seleccionado dos empresas más que
+tienen una página web en internet y que se dedican a ofrecer espectáculos en
+tablaos flamencos en Granada, para compararlas con la página web del tablao
+flamenco que nos ocupa en esta práctica, <strong>La Alborea</strong>. 
+<br>Como conclusiones, podemos decir que la página web de <strong>Jardines de Zoraya</strong> es notablemente inferior a las otras
+dos en cuanto a visibilidad, dinamismo de la página y división de los distintos
+aspectos del tablao flamenco. La siguiente página, correspondiente a <strong>Casa Ana</strong>, sí
+contiene una mejor presentación, con mucha información acerca del mundo del
+flamenco y un blog bastante representativo, pero, a su vez, muestra menos
+movimiento y dinamismo que la página de La Alborea. <br>Por tanto, podríamos decir
+que la página web que nos atañe en esta práctica tiene una mejor visibilidad que el
+resto de las páginas analizadas. Presenta un mayor dinamismo que atrae al usuario,
+haciendo más extensa su visita por la web, mucha información acerca del flamenco
+y otras actividades en Granada, etc. Como único aspecto negativo podríamos
+destacar la falta de imágenes propias del lugar, que conseguirían una mejor imagen
+del tablao a los usuarios.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----

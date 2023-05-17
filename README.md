@@ -1,28 +1,28 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
+Grupo: DIU1_03_Puntaleños.  Curso: 2022/23 
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Rediseño de la página web "La Alboreá" tablao flamenco
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Se pretende llevar a cabo un lavado de cara a la página web de tablao flamenco "La Alboreá" para así poder llegar a subir el número de visitas, de ventas <br>
+y mostrar a más personas la afición por el flamenco. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Método UX](P3/logo.png)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   FERNANDO MOLINA DELGADO     :octocat:     
+ * :bust_in_silhouette:  JUAN MARCOS SÁNCHEZ DELGADO     :octocat:
 
 ----- 
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 

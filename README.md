@@ -13,7 +13,7 @@ Se pretende llevar a cabo un lavado de cara a la página web de tablao flamenco 
 y mostrar a más personas la afición por el flamenco. 
 
 Logotipo: 
-![Método UX](P3/logo.png)
+![Método UX](P3/imagen_2023-05-18_010821990.png)
 
 Miembros
  * :bust_in_silhouette:   FERNANDO MOLINA DELGADO     :octocat:     

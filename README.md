@@ -12,7 +12,7 @@ Descripción:
 Se pretende llevar a cabo un lavado de cara a la página web de tablao flamenco "La Alboreá" para así poder llegar a subir el número de visitas, de ventas <br>
 y mostrar a más personas la afición por el flamenco. 
 
-Logotipo: 
+Logotipo: <br>
 ![Método UX](P3/imagen_2023-05-18_010821990.png)
 
 Miembros

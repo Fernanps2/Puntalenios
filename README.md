@@ -130,47 +130,110 @@ atraer a la gente fanática de esta categoría.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Método UX](P2/imagen_2023-05-18_111103553.png)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Nuestra “propuesta de valor” es dar toda la información posible al usuario y,
+además, hacer lo más cómodo el uso que le dé a la página web. Ejemplos de lo
+anteriormente dicho sería el poder reservar plaza en el restaurante sin necesidad de
+tener que llamar a los del restaurante directamente o, también, poder reservar un
+sitio conjunto en el espectáculo para poder estar en un lugar más deseado y
+rodeado de sus acompañantes.<br><br>
+Por otro lado, está el tema de la información, ya que no daban la suficiente
+información visual para hacerse una idea de cómo es el espectáculo antes de ir, o
+sobre los propios artistas invitados, ya que no se tiene constancia de sus referencias
+o de lo que han hecho en su carrera profesional.<br><br>
+Por ello, vemos importantes estos dos aspectos de cara a informar y acomodar al
+usuario.
+
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![Método UX](P2/imagen_2023-05-18_111609487.png)
+
+Apostamos por “facilitar” al usuario poder reservar entrada con un sitio asegurado,
+además de poder llegar a reservar en el restaurante sin necesidad de tener que
+estar en contacto con el mismo restaurante. Poder cancelar su reserva si al final no
+puede venir. Poder ver quiénes son los artistas que van, para así poder “facilitar” al
+usuario previsualizar su experiencia en el espectáculo. Por último, mostrar imágenes
+y vídeos del lugar, mostrando así nuestro espectacular establecimiento y todo lo que
+ofrecen nuestras instalaciones.<br><br>
+Por otra parte, nuestro objetivo es llegar a todos los públicos, pero sobre todo a los
+jóvenes. Y, además, fomentar la cultura flamenca.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Método UX](P2/imagen_2023-05-18_111353336.png)
+
+En este apartado hemos identificado una lista de tareas a realizar por los usuarios
+en la página web. Como usuarios, hemos distinguido entre personas nacionales,
+refiriéndonos a habitantes de la provincia de Granada, y personas extranjeras,
+incluyéndose aquí tanto personas del resto de España como personas de otros
+países. Como tareas, hemos identificado aquellas más relevantes que realizan los
+usuarios al interactuar con la página web, destacando especialmente (sombreadas
+en color gris) tareas tales como reservar entrada en el establecimiento, visitar la
+sección de los autores, reservar una mesa en el restaurante o ver reseñas del lugar.<br><br>
+Estas son las tareas que hemos considerado más importantes, ya que con nuestra
+propuesta de valor queremos resaltar este tipo de acciones en la página web, así
+como reservar una entrada para el evento que puede ser una de las acciones
+principales y más importantes de los usuarios.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Método UX](P2/imagen_2023-05-18_112608359.png)
 
->>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  la alboreá |Esta etiqueta indica la página de inicio de la web, un breve resumen de lo que ofrece.
+reservar | Lleva a la página específica para reservar las entradas para el evento.
+experiencias | Lleva a la página que contiene servicios externos disponibles, como son las guías turísticas o clases de flamenco.
+información | Muestra información acerca de la agenda del sitio y un blog de flamenco.
+contáctanos | Página donde se muestra el mapa donde se ubica el sitio y un pequeño formulario para contactar con el sitio.
+espectáculo | Página donde se muestra información sobre el lugar y los espectáculos.
+artistas | Muestra enlaces a los diferentes tipos de artistas que hay.
+artistas de cante | Lleva a la información acerca de los distintos artistas de cante.
+artistas de guitarra | Lleva a la información acerca de los distintos artistas de guitarra.
+artistas de baile | Lleva a la información acerca de los distintos artistas de baile.
+guías | Página donde se muestran las guías turísticas de Granada.
+clases | Página donde se muestran las clases de flamenco que se ofertan.
+talleres | Página donde se muestran talleres sobre la cultura de Granada y su historia.
+cenas | Página donde se muestra el menú del restaurante e información sobre el mismo.
+agenda | Muestra documentos correspondientes a cada mes con los artistas que acudirán en cada día que se celebre un espectáculo.
+blog | Lleva a un blog de flamenco donde se muestran las principales noticias del sitio.
+ubicación | Muestra un mapa con la ubicación del lugar junto con un enlace a google maps.
+contacto | Formulario para poder contactar con los responsables del lugar
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> - Enlace a los bocetos:  [bocetos en figma](https://github.com/Fernanps2/Puntalenios/blob/master/P2/Bocetos.fig)
+
+En este paso hemos desarrollado los bocetos de las distintas pantallas de la interfaz gráfica
+que el usuario puede ver cuando visita la página web, destacando aquellos cambios o
+mejoras que hemos ido comentando a lo largo de la práctica tales como la posibilidad de
+reservar en el restaurante a la hora de reservar la entrada, elegir los asientos, etc. Todos
+estos bocetos se adjuntan a la entrega de esta práctica.
+Para identificar los distintos bocetos que se han desarrollado y su organización simplemente
+debemos fijarnos en el Sitemap, donde cada boceto está relacionado con cada una de las
+interfaces que se extienden en dicho esquema.<br><br>
+En estos bocetos hemos tenido en cuenta los siguientes detalles de acuerdo con nuestra
+propuesta de valor desarrollada en esta práctica: se ha añadido más información gráfica
+acerca del tablao flamenco, añadiendo más fotografías y vídeos de los eventos celebrados,
+incluyendo un apartado de galería donde poder ver toda esta información; se ha añadido
+más información y referencias acerca de los artistas de este tablao flamenco, diferenciando
+entre artistas de baile, de cante o de guitarra; se añade la posibilidad de reservar los
+asientos concretos donde se situarán los usuarios en el interior del recinto; se añade la
+posibilidad de reservar una mesa en el restaurante desde la página de reserva de entradas
+sin necesidad de contactar directamente con el restaurante.
 
 
 ## Paso 3. Mi UX-Case Study (diseño)

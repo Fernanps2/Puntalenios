@@ -243,35 +243,132 @@ sin necesidad de contactar directamente con el restaurante.
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para realizar este apartado hemos usado la plantilla de Moodboard proporcionada
+en Figma. En ella hemos incluido varios logotipos, una fuente a usar, la paleta de
+colores que representa nuestra página, los iconos que se usan, las imagenes que
+se utilizan en la web y una serie de imagenes inspiradoras.<br>
+Para los logotipos hemos utilizado la herramienta Designevo. Se ha incluido un
+logotipo principal, que es el que aparece en mayor tamaño y también aparecen
+otros dos logotipos secundarios que han sido objeto de prueba en nuestra página
+web para comprobar su usabilidad.<br>
+Los iconos que usaremos son los necesarios para indicar las redes sociales del
+sitio, la ubicación, los idiomas en que está disponible la página web, así como el
+bono cultural. Los iconos de redes sociales tienen un fondo negro, adecuandose así
+al color principal de fondo de nuestra página web.<br>
+La paleta de colores usada destaca los colores negro y rojo, que serán los colores
+principales de la página, negro para el fondo y en rojo para los contenidos más
+destacables. Además, se usan otros colores para distintas partes de la web como el
+amarillo para la zona de comentarios, el blanco para el texto, etc.
+En cuanto a la tipografía, hemos usado la fuente de tipo Rosario, un tipo de letra
+claro, sencillo y bonito.<br>
+Por último, se han incluido las imágenes que se han usado en la portada de la
+página web y una serie de imagenes inspiradoras en las que los colores, las formas,
+los fondos, etc, han servido de inspiración para nuestro diseño.
+
+![Método UX](P3/imagen_2023-05-21_141037830.png)
+
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+En este paso hemos diseñado la página web Onboarding de nuestro proyecto. Esta
+página incluye un título y un subtitulo, un logotipo, elementos gráficos de refuerzo,
+detalle de las características de beneficios de nuestra propuesta y una única accion
+CTA que redirige a la app.<br>
+En el título hemos optado por una frase que resalte nuestra propuesta de valor, que
+llame la atención del usuario, un usuario que no conozca el flamenco o tenga poca
+información. Además hemos resaltado esta propuesta con el subtitulo en el que
+resalta el potencial de nuestra web.<br>
+El titulo y el subtítulo se encuentran sobre una imagen de fondo, que caracterizará
+nuestra página y la hará más llamativa para los usuarios, conteniendo mucho color
+y sobresaltando la pasión de los artistas.<br>
+También se han definido 3 propuestas de valor con el objetivo de llamar la atención
+de los usuarios, que se adentren en la página web y se consigan mas visitas.
+Por último, se ha incluido un botón de acceso a la página web, con un mensaje
+claro que incite al usuario a entrar en la página.<br>
+Los colores utilizados serán el negro para el fondo, rojo para las cosas más
+resaltadas, y el blanco para el texto encima del fondo.<br>
 
->>> Plantear Landing Page 
+![Método UX](P3/imagen_2023-05-21_141246178.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para los guidelines hemos considerado aquellas partes de la página web tales como
+menús, iconos seleccionables, botones, etc. Así, la primera parte muestra los iconos
+con los que se seleccionan los asientos disponibles en el tablao y posteriomente las
+distintas partes de los menús desplegables que aparecen en la parte superior de la
+página web. Después tenemos el menú donde seleccionamos los asientos y donde
+podemos incluir los aperitivos, el numero de participantes y la hora del evento. Para
+una mayor claridad se adjunta a la entrega un video donde se muestran los distintos
+guidelines.<br>
+Para los patrones de diseño, en primer lugar, para la página de reserva hemos
+usado un patrón de diseño relacionado con una tarea ya que, se debe realizar en
+esta página la reserva de una entrada para asistir al tablao flamenco. Así, tenemos
+al principio una imagen y una pequeña descripción del espectáculo y despues se
+descompone la tarea de reserva por pasos: primero se seleccionan los participantes
+y la fecha, se eligen los asientos y se confirma la seleccion de aperitivos y por último
+se selecciona si se desea reservar en el restaurante.<br>
+Usamos también el patrón combinado en el que destacamos el contenido relevante
+y facilitamos el uso de la navegación. En nuestras páginas elegidas para el mockup
+destacamos el contenido importante en, por ejemplo, los botones de reservar
+entradas, botones para ver eventos, para obtener más información, los comentarios
+de los clientes en un color destacado, la información de los artistas es breve,
+concisa y clara, mejorando la atracción del usuario, etc. En cuanto al patrón de
+navegación, tenemos una división clara de los distintos elementos a los que se
+puede acceder en la página desde el menú superior, tenemos páginas con botones
+que contienen enlaces para llegar a otras páginas como por ejemplo el botón que te
+lleva a reservar en la página inicial, tenemos menús apilados en el menú superior,
+etc.<br>
+Queda pendiente usar el patrón de diseño que organiza la información como una
+lista de elementos en la página en la que se muestran los distintos tipos de artistas
+según el tipo seleccionado, que en esta práctica no se ha seleccionado para el
+mockup.<br>
+
+>>> - Guidelines usados: [guidelines](https://github.com/Fernanps2/Puntalenios/blob/master/P3/GuideLines.pdf)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Como ya hemos ido desarrollando a lo largo de este documento, hemos
+desarrollado 3 páginas distintas de nuestra web a las que hemos aplicado los
+patrones de diseño y las propuestas de valor comentadas.<br>
+Todas las páginas disponen de un menú superior en el que podemos ver las
+distintas páginas disponibles mediante menús desplegables y el logo que
+realizamos en el moodboard. La página principal contiene una pequeña y concisa
+descripción acerca del tablao, los servicios que se ofrecen, comentarios de otros
+usuarios que ya han asistido al tablao, un apartado de contenido destacado de la
+semana, enlace a los eventos que hay programados en el mes y un pie de página,
+además de los distintos botones para llegar a otras páginas del sitio.<br>
+La página de los artistas muestra una división entre cantaores, bailaores y
+guitarristas con una pequeña descripción de ellos. Se podrá seleccionar uno de
+estos tipos y se llevará a la página que contiene todos los artistas de ese tipo donde
+podremos ver la información detallada de cada uno de ellos.<br>
+Por último, la página de reserva ya ha sido descrita anteriormente en el apartado de
+los patrones de diseño. Como resúmen, tenemos una imagen del tablao, una
+pequeña descripción y a continuación podremos seleccionar todas las opciones que
+queremos que tenga nuestra reserva. Al final, se resalta el botón de finalizar la
+reserva con un color rojo.<br>
+En todas las páginas disponemos de un pie de página donde también se muestran
+enlaces que llevan a distintas páginas del sitio, información sobre el la ubicación del
+sitio, teléfono y contacto, información sobre el uso del bono cultural y se muestran
+también los iconos que mencionábamos en el moodboard para dirigir al usuario las
+redes sociales del tablao flamenco.<br>
+
+El pdf del Mockup al ser exportado desde FIGMA usa un tipo de pdf especial, y en github no puede previsualizarlo
+coorectamente. Pero si se descarga se puede ver perfectamente.<br>
+
+>>> - Muestra de las páginas creadas: [mockup](https://github.com/Fernanps2/Puntalenios/blob/master/P3/MockupPDFPLUS.pdf)
+>>> - Vídeo con la prueba de las páginas: [vídeo](https://github.com/Fernanps2/Puntalenios/blob/master/P3/video%20prueba%20mockup.mkv)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+<!-- ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
 >>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox -->
 
 
 ## Paso 4. Evaluación 

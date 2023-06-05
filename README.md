@@ -386,6 +386,8 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
+**CASO A:** Tablao flamenco (Alboreá)
+**CASO B:** Aplicación sobre fotografías y viajes (PhotoSpot)
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----

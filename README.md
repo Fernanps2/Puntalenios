@@ -377,8 +377,10 @@ coorectamente. Pero si se descarga se puede ver perfectamente.<br>
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+**Caso asignado:** [PhotoSpot](https://github.com/jepalfer/DIU-chiringo/tree/master/P3)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Con “Photospot” descubrirás lugares increíbles y únicos para tus fotos para redes sociales. Es una aplicación caracterizada por su comodidad y libre albedrío para explorar tú mismo y conocer los lugares más bonitos y un poco de la historia que hay detrás de cada lugar.
+La aplicación diseñada destaca por lo minimalista que es, presentándose con colores como el blanco y el negro, dando un aire de seriedad y profesionalismo. Al acceder a la app nos dan varias opciones de navegabilidad, siendo estas: ir a la página de noticias, informarse sobre los propietarios, el ingreso y formulario de contacto.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing

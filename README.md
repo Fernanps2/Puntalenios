@@ -386,7 +386,7 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
-**CASO A:** Tablao flamenco (Alboreá)
+**CASO A:** Tablao flamenco (Alboreá)<br>
 **CASO B:** Aplicación sobre fotografías y viajes (PhotoSpot)
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
@@ -397,9 +397,9 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 | User4  | H / 21   | Estudiante  | Alta       | Feliz     |Windows       | B 
 
 <br><br>
-Especificamos algunos usuarios:
-**Usuario1:** Discapacitado, pérdida de un 70% de la vista en uno de sus ojos, además de problema de movilidad.
-**Usuario3:** Discapacitado, pérdida de medio brazo y un dedo de su otra mano.
+Especificamos algunos usuarios:<br>
+**Usuario1:** Discapacitado, pérdida de un 70% de la vista en uno de sus ojos, además de problema de movilidad.<br>
+**Usuario3:** Discapacitado, pérdida de medio brazo y un dedo de su otra mano.<br>
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----

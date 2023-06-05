@@ -394,7 +394,7 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 | User1  | H / 47   | Desempleado  | Baja       | Triste | Móvil       | A 
 | User2  | M / 36   | Empresario  | Alta       | Enfadado       | Mac        | A 
 | User3  | M / 24   | Desempleado     | Media        | Enfadado    | Móvil      | B 
-| User4  | H / 21   | Estudiante  | Alta       | Feliz     |WindowsWeb        | B 
+| User4  | H / 21   | Estudiante  | Alta       | Feliz     |Windows       | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS

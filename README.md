@@ -386,8 +386,6 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -401,9 +399,9 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 ----
 
 ![Método UX](P4/cuestionarioSUS.png)
-<br>
+<br><br>
 Para el caso B partimos de dos usuarios ficticios creados con Role Play. El primero de ellos es una mujer de 24 años que es discapacitada, desempleada, con un nivel medio de experiencia en TICs y cuya acción es bailar y su emoción es enfadada. Hemos obtenido una valoración final de 40 puntos sobre 100, con lo cual, podemos concluir que se encuentra en el tipo marginal (40-60). Es una puntuación baja que puede deberse a que la página no se ha adaptado muy bien al tipo de usuario que la visitaba, debido a que quizás es una página dinámica que requiere cambiar de pantalla constantemente y que está dirigida a usuarios concretos que usen la página a menudo.
-<br>
+<br><br>
 El segundo usuario se trata de un hombre de 21 años que es estudiante, con un uso alto de TICs y cuyo perfil es solitario, la acción que lo describe es bailar y su emoción es feliz. Con este usuario hemos obtenido una valoración final de 77.5 puntos sobre 100, con lo cual, tenemos una valoración aceptable tipo B (entre 70 y 80). Al tratarse de una persona joven, con uso habitual de TICs, obtenemos una valoración más alta ya que es un usuario que podría ser típico de este sitio web, adaptándose bien y sin demasiados problemas a la web.
 
 
@@ -411,13 +409,13 @@ El segundo usuario se trata de un hombre de 21 años que es estudiante, con un u
 ----
 
 [Informe de usabilidad] (https://github.com/Fernanps2/Puntalenios/blob/master/P4/UsabilityReportPhotospot.pdf)
-<br>
+<br><br>
 En conclusión, podemos determinar que esta página cuenta con una interfaz sencilla y bastante minimalista, que aún destacando en sencillez, falla en la falta de información, por ejemplo, en la página de inicio aparecen tres botones en la parte inferior que no se especifica para qué son o a dónde te llevan.
-<br>
+<br><br>
 Los datos proporcionados por la web son claros y fáciles de leer, ya que usa letra  considerablemente grande para no dificultar su lectura, pero el uso del estilo de letra “italic” para destacar secciones en el texto, hace que no cumpla su función de “destacar” ya que se pierde con todo el texto.
-<br>
+<br><br>
 Los colores usados son demasiado planos (blanco y negro) destacando únicamente la sección de “amigos”, “recompensas” y “colecciones”, pero no acaban de fusionarse del todo bien.
-<br>
+<br><br>
 Por último, esta aplicación está destinada a captar un público muy específico: gente que le guste viajar, que salga bastante de casa, que se mueva mucho… Ya que gente “normal”, no podría competir con personas que tengan más dinero y tiempo para viajar por el mundo y hacer fotos.
 
 

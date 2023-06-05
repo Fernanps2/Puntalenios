@@ -427,23 +427,6 @@ Los colores usados son demasiado planos (blanco y negro) destacando únicamente 
 Por último, esta aplicación está destinada a captar un público muy específico: gente que le guste viajar, que salga bastante de casa, que se mueva mucho… Ya que gente “normal”, no podría competir con personas que tengan más dinero y tiempo para viajar por el mundo y hacer fotos.
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
 ## Conclusión final / Valoración de las prácticas
 
 

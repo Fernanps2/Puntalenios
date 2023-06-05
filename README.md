@@ -406,9 +406,11 @@ Especificamos algunos usuarios:<br>
 
 ![Método UX](P4/cuestionarioSUS.png)
 <br><br>
-Para el caso B partimos de dos usuarios ficticios creados con Role Play. El primero de ellos es una mujer de 24 años que es discapacitada, desempleada, con un nivel medio de experiencia en TICs y cuya acción es bailar y su emoción es enfadada. Hemos obtenido una valoración final de 40 puntos sobre 100, con lo cual, podemos concluir que se encuentra en el tipo marginal (40-60). Es una puntuación baja que puede deberse a que la página no se ha adaptado muy bien al tipo de usuario que la visitaba, debido a que quizás es una página dinámica que requiere cambiar de pantalla constantemente y que está dirigida a usuarios concretos que usen la página a menudo.
+Como podemos observar, hay una leve diferencia entre un test y otro, destacando la puntuación que da el usuario 3 en el TEST B.
 <br><br>
-El segundo usuario se trata de un hombre de 21 años que es estudiante, con un uso alto de TICs y cuyo perfil es solitario, la acción que lo describe es bailar y su emoción es feliz. Con este usuario hemos obtenido una valoración final de 77.5 puntos sobre 100, con lo cual, tenemos una valoración aceptable tipo B (entre 70 y 80). Al tratarse de una persona joven, con uso habitual de TICs, obtenemos una valoración más alta ya que es un usuario que podría ser típico de este sitio web, adaptándose bien y sin demasiados problemas a la web.
+Este usuario, como ya hemos descrito, tiene una discapacidad con sus extremidades, le falta medio brazo y carece de uno de sus dedos en su otra mano, por lo tanto, la app comparada como caso B. Este usuario tiene muchísimos problemas con los teléfonos, por lo que, su problema le dificulta usar la app, por eso tiene una puntuación tan baja. Pero si vemos al otro usuario, un estudiante, bastante familiarizado con las tecnologías, con lo que, su puntuación es bastante más alta, ya que, le resulta muchísimo más fácil usar la app.
+<br><br>
+Por otra parte, nuestra práctica ha tenido una buena puntuación, como media, un **ACEPTABLE**. Destacando bastante la característica de facilidad de uso.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report

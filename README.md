@@ -391,10 +391,10 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1  | H / 47   | Desempleado  | Baja       | Triste | Móvil       | A 
+| User2  | M / 36   | Empresario  | Alta       | Enfadado       | Mac        | A 
+| User3  | M / 24   | Desempleado     | Media        | Enfadado    | Móvil      | B 
+| User4  | H / 21   | Estudiante  | Alta       | Feliz     |WindowsWeb        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS

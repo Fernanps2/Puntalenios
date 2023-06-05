@@ -400,21 +400,25 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![Método UX](P4/cuestionarioSUS.png)
+<br>
+Para el caso B partimos de dos usuarios ficticios creados con Role Play. El primero de ellos es una mujer de 24 años que es discapacitada, desempleada, con un nivel medio de experiencia en TICs y cuya acción es bailar y su emoción es enfadada. Hemos obtenido una valoración final de 40 puntos sobre 100, con lo cual, podemos concluir que se encuentra en el tipo marginal (40-60). Es una puntuación baja que puede deberse a que la página no se ha adaptado muy bien al tipo de usuario que la visitaba, debido a que quizás es una página dinámica que requiere cambiar de pantalla constantemente y que está dirigida a usuarios concretos que usen la página a menudo.
+<br>
+El segundo usuario se trata de un hombre de 21 años que es estudiante, con un uso alto de TICs y cuyo perfil es solitario, la acción que lo describe es bailar y su emoción es feliz. Con este usuario hemos obtenido una valoración final de 77.5 puntos sobre 100, con lo cual, tenemos una valoración aceptable tipo B (entre 70 y 80). Al tratarse de una persona joven, con uso habitual de TICs, obtenemos una valoración más alta ya que es un usuario que podría ser típico de este sitio web, adaptándose bien y sin demasiados problemas a la web.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+[Informe de usabilidad] (https://github.com/Fernanps2/Puntalenios/blob/master/P4/UsabilityReportPhotospot.pdf)
+<br>
+En conclusión, podemos determinar que esta página cuenta con una interfaz sencilla y bastante minimalista, que aún destacando en sencillez, falla en la falta de información, por ejemplo, en la página de inicio aparecen tres botones en la parte inferior que no se especifica para qué son o a dónde te llevan.
+<br>
+Los datos proporcionados por la web son claros y fáciles de leer, ya que usa letra  considerablemente grande para no dificultar su lectura, pero el uso del estilo de letra “italic” para destacar secciones en el texto, hace que no cumpla su función de “destacar” ya que se pierde con todo el texto.
+<br>
+Los colores usados son demasiado planos (blanco y negro) destacando únicamente la sección de “amigos”, “recompensas” y “colecciones”, pero no acaban de fusionarse del todo bien.
+<br>
+Por último, esta aplicación está destinada a captar un público muy específico: gente que le guste viajar, que salga bastante de casa, que se mueva mucho… Ya que gente “normal”, no podría competir con personas que tengan más dinero y tiempo para viajar por el mundo y hacer fotos.
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)

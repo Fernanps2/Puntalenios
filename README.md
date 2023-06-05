@@ -396,6 +396,10 @@ La aplicación diseñada destaca por lo minimalista que es, presentándose con c
 | User3  | M / 24   | Desempleado     | Media        | Enfadado    | Móvil      | B 
 | User4  | H / 21   | Estudiante  | Alta       | Feliz     |Windows       | B 
 
+<br><br>
+Especificamos algunos usuarios:
+**Usuario1:** Discapacitado, pérdida de un 70% de la vista en uno de sus ojos, además de problema de movilidad.
+**Usuario3:** Discapacitado, pérdida de medio brazo y un dedo de su otra mano.
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----

@@ -429,8 +429,15 @@ Por último, esta aplicación está destinada a captar un público muy específi
 
 ## Conclusión final / Valoración de las prácticas
 
+Como conclusión de nuestra práctica, creemos haber podido mejorar la página web original de nuestro caso propuesto "La Alboreá tablao flamenco". Viendo todos los documentos que hemos creado sobre el tema, las comparaciones con otras prácticas y propios informes hecho de nuestra propuesta, hemos concluido en los siguiente:
+<br><br>
+>>>**Puntos fuertes**
+>>><br>Tenemos una presentación limpia y sencilla, bonita a la vista. Además, la navegabilidad por la página es lo más sencilla posible, facilitando a cualquier usuario pasar por las páginas.
+<br><br>
+>>>**Puntos débiles**
+>>><br>Uso del color negro como fondo de la página, esto hace que dificulte el visionado de la página para gente con problemas de vista. Además de tener letra un poco pequeña para los textos, siendo así poco legible.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+<br><br>Finalmente, habiendo leído [el informe de usabilidad del equipo que nos analizó](https://github.com/inmagalvez/DIU-miliPilis/blob/master/P4/P4_UsabReport_tablaoflamenco_doneby_DIU1_puntaleños.pdf), podemos afirmar que coincidimos en prácticamente todo lo dicho. Es una página fácil de mejorar, ya que son cambios estéticos y de legibilidad.
 
 
 
